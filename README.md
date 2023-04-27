@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/KDQ25pahVfwGRvvT9X/giphy.gif" width="200"/>
     <h1 align="center">Hi 👋, I'm Cfparra7</h1>
-    <h3 align="center">A passionate web developer from Colombia, I like can resolve problems for people also I'm a proffesional in other 
-        stack like Administration, but change my principal carrer to  fulfill a dream. I'm I’m currently working on C# and Next.js
+    <h3 align="center">A passionate web developer from Colombia, I like to solve  people's problems, I'm also a proffesional in another 
+        area such as Administration, but I change my principal carrer to  fulfill a dream. I’m currently working on C# and Next.js
     </h3>
 </div>
 
