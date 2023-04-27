@@ -5,6 +5,7 @@
         stack like Administration, but change my principal carrer to  fulfill a dream. I'm I’m currently working on C# and Next.js
     </h3>
 </div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian%20Parra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianparrag/)](https://www.linkedin.com/in/cristianparrag/)
 
 # Knowledges :mortar_board:
