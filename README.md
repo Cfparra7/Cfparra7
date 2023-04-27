@@ -18,5 +18,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Cfparra7/)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Cfparra7/)![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white&link=https://github.com/Cfparra7/)
 
 ## 😜📊 My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cfparra7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cfparra7&theme=tokyonight&hide_border=true&card_width=1200)](https://git.io/streak-stats)
